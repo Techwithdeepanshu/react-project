@@ -1,0 +1,39 @@
+{
+    "HTML": [
+    {
+        "heading":"Hypertext Markup Language"
+    },
+    {
+        "intro":"INTRODUCTION: HTML stands for Hypertext Markup Language. It is a standard markup language used to design the documents displayed in the browsers as a web page. This language can become more interactive and attractive by using CSS ( Cascading Style Sheet) and JS (JavaScript) within it."
+    }
+    
+    ],
+    
+    "CSS":[
+    {
+        
+        "heading":"Cascading Style Sheets"},
+    {
+        "intro":"Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript. "
+    }
+    
+    ],
+
+    "JAVASCRIPT": [
+        {
+            "heading":"JAVASCRIPT"
+        },
+        {
+            "intro":"The Full Form Of JS is Javascript. JS stands for JavaScript. It is a text-based, lightweight, cross-platform, and interpreted scripting programming language. This language is very popular for developing web pages."
+        }
+        ],
+        
+        "JAVA":[
+        {
+            
+            "heading":"JAVA"},
+        {
+            "intro":"The name JAVA refers to a computer-based programming language that is used to develop computer-based applications. It is not an abbreviation and does not have a specific full form. However, the 'Just Another Virtual Accelerator' is a fictionalized complete version of JAVA and the name is given by the general public. "
+        }
+        ]
+}
